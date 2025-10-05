@@ -1,8 +1,36 @@
-- 👋 Hi, I’m Hrishi
-- An enthusiastic Data Scientist and Machine Learning Engineer
-- 📫 Let's connect : LinkedIn - https://www.linkedin.com/in/hrishikesh-bari-07bb03222 
+# Hi there, I'm Hrishi 👋
 
-<!---
-hrishi-2407/hrishi-2407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Full-Stack Developer | Python Enthusiast
+
+I'm a full-stack developer based in Pune, currently working at SAV.com. I specialize in building scalable backend systems and enjoy solving complex problems with clean, efficient code.
+
+### 🛠️ Tech Stack
+
+```text
+Backend    Python • FastAPI • Flask
+Tools      Git • Docker • REST APIs
+Focus      Full-Stack Development • API Design
+```
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishi-2407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi-2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrishi-2407&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+</div>
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrishi-2407&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
