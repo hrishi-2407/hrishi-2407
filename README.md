@@ -20,8 +20,6 @@ Focus      Full-Stack Development • API Design • Scalable Systems
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi-2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hrishi-2407&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&stroke=58A6FF)
-
 </div>
 
 ### 📫 Connect With Me
