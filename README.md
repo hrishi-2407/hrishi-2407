@@ -7,9 +7,9 @@ I'm a full-stack developer based in Pune, currently working at SAV.com. I specia
 ### 🛠️ Tech Stack
 
 ```text
-Backend    Python • FastAPI • Flask
-Tools      Git • Docker • REST APIs
-Focus      Full-Stack Development • API Design
+Backend    Python • FastAPI • Flask • REST APIs
+Tools      Git • Docker 
+Focus      Full-Stack Development • API Design • Scalable Systems
 ```
 
 ### 📊 GitHub Stats
